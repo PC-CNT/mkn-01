@@ -3,3 +3,4 @@
 *://*.oilsteb.com/*
 *://*.superpaba.com/*
 *://*.apps112.com/*
+*://*.driversdownloader.com/*
